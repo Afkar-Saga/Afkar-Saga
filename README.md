@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afkar-Saga
 - 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity, Vue
 - 📫 How to reach me afkarsukmawanahmad@gmail.com
 
 <!---
